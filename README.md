@@ -1,2 +1,2 @@
 # datasciencecoursera
-This a repor fro Project -- week 2
+This a repor for Project -- week 2
